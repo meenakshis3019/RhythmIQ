@@ -1,0 +1,7 @@
+project_id = "scynxjsecupbiaweksxl"
+
+[functions.analyze-ecg]
+verify_jwt = false
+
+[functions.ecg-chat]
+verify_jwt = false
